@@ -1,5 +1,5 @@
 <h1 align="center">✨Python Backdoor✨</h1>
-En este repositorio encontrarás el código para un backdoor programado en python, te recomiendo ver mi video de cómo programarlo para que entiendas más a fondo su funcionamiento y cómo ejecutar el mismo ya que para esto se necesita convertir de python a .exe así como un servidor desde donde establecer la conexión del usuario a nuestro sistema.
+En este repositorio encontrarás el código para un backdoor programado en python, te recomiendo ver mi video de cómo programarlo para que entiendas más a fondo su funcionamiento y cómo ejecutar el mismo ya que para esto se necesita convertir de .py a .exe así como un servidor desde donde establecer la conexión del usuario a nuestro sistema.
 
 <h2 align="center"> Disclaimer: </h2>
 
