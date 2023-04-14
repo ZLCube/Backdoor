@@ -1,7 +1,7 @@
 <h1 align="center">✨Python Backdoor✨</h1>
 En este repositorio encontrarás el código para un backdoor programado en python 
 
-Disclaimer:
+<h2 align="center"> Disclaimer: </h2>
 
 El propósito de este código es meramente educacional, queda prohibido su uso con fines maliciosos y no me hago responsable del uso que se le de a la información aquí mostrada.
 
